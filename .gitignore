@@ -1,3 +1,6 @@
 .venv
 ds*
 test*
+alg_gen_old.py
+L3T_setups.csv
+L3T.csv

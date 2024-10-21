@@ -1,27 +1,27 @@
 ScrambleAlg L3T
-R U R' U L R' L' R U' R' B' R' B U' R'
+B' R B U' B' R' B' R B' U B R' B'
 End
 ScrambleAlg L3T
-U R U R' U L R' L' R U' R' B' R' B U' R'
+U B' R B U' B' R' B' R B' U B R' B'
 End
 ScrambleAlg L3T
-U' R U R' U L R' L' R U' R' B' R' B U' R'
+U' B' R B U' B' R' B' R B' U B R' B'
 End
 ScrambleAlg L3T
-R U R' U L R' L' R U' R' B' R' B U' R' U
+B' R B U' B' R' B' R B' U B R' B' U
 End
 ScrambleAlg L3T
-U R U R' U L R' L' R U' R' B' R' B U' R' U
+U B' R B U' B' R' B' R B' U B R' B' U
 End
 ScrambleAlg L3T
-U' R U R' U L R' L' R U' R' B' R' B U' R' U
+U' B' R B U' B' R' B' R B' U B R' B' U
 End
 ScrambleAlg L3T
-R U R' U L R' L' R U' R' B' R' B U' R' U'
+B' R B U' B' R' B' R B' U B R' B' U'
 End
 ScrambleAlg L3T
-U R U R' U L R' L' R U' R' B' R' B U' R' U'
+U B' R B U' B' R' B' R B' U B R' B' U'
 End
 ScrambleAlg L3T
-U' R U R' U L R' L' R U' R' B' R' B U' R' U'
+U' B' R B U' B' R' B' R B' U B R' B' U'
 End

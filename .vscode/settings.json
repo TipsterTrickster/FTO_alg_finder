@@ -1,0 +1,6 @@
+{
+    "notebook.markup.fontSize": 10,
+    "notebook.output.fontSize": 0,
+    "notebook.output.textLineLimit": 10,
+    "notebook.output.wordWrap": false
+}

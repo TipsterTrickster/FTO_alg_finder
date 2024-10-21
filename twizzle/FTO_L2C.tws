@@ -1,0 +1,39 @@
+# /usr/local/bin/node /Users/rokicki/cubing.js/dist/bin/puzzle-geometry-bin.js --optimize --ksolve FTO
+# PuzzleGeometry 0.1 Copyright 2018 Tomas Rokicki.
+# o f 0.333333333333333 optimize true
+Name PuzzleGeometryPuzzle
+
+
+# Edges: UR UL UB -> Rw repeat
+# Centers: UF UL UR
+
+Set EDGE 9 1
+Set CENTER 9 1
+
+Solved
+EDGE
+1 2 3 4 5 6 7 8 9
+CENTER
+1 2 3 4 5 6 7 8 9
+End
+
+Move U
+EDGE
+3 1 2 4 5 6 7 8 9
+CENTER
+3 1 2 4 5 6 7 8 9
+End
+
+Move R
+EDGE
+4 2 3 7 5 6 1 8 9
+CENTER
+4 2 6 7 5 9 1 8 3
+End
+
+Move Rw
+EDGE
+4 5 6 7 8 9 1 2 3
+CENTER
+4 5 6 7 8 9 1 2 3
+End

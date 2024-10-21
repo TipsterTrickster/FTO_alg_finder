@@ -1,0 +1,55 @@
+Name FTOL3T
+
+Set corners 3 2
+Set edges 3 1
+Set centers 6 1
+
+Solved
+corners
+1 2 3
+0 0 0
+edges
+1 2 3
+centers
+1 1 1 2 3 4
+End
+
+Move U
+corners
+3 1 2
+0 0 0
+edges
+3 1 2
+centers
+3 1 2 4 5 6
+End
+
+Move S
+corners
+3 1 2
+1 0 1
+edges
+1 2 3
+centers
+6 4 2 3 1 5
+End
+
+Move H
+corners
+2 3 1
+1 0 1
+edges
+1 2 3
+centers
+2 6 4 5 3 1
+End
+
+Move L
+corners
+3 1 2
+1 1 0
+edges
+1 2 3
+centers
+3 4 5 6 1 2
+End

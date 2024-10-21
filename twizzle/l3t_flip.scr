@@ -1,0 +1,12 @@
+ScrambleAlg A
+H U S U S
+End
+
+
+corners
+2 3 1
+0 1 1
+edges
+1 2 3
+centers
+3 1 1 1 2 4
